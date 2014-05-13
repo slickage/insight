@@ -1,0 +1,1 @@
+web: nodemon node_modules/insight-bitcore-api/insight.js
